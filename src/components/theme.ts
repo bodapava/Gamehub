@@ -8,7 +8,7 @@ import {
 
 // 2. Add your color mode config
 const config: ThemeConfig = {
-  initialColorMode: "dark",
+  initialColorMode: "light",
   useSystemColorMode: true,
 };
 
